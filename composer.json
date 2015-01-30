@@ -1,0 +1,9 @@
+{
+    "name": "softlayer/softlayer-message-queue-php",
+    "description": "SoftLayer Message Queue PHP client",
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {"SoftLayer_": "src/SoftLayer"}
+    }
+}
