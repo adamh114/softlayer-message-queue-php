@@ -4,6 +4,6 @@
     "require": {
     },
     "autoload": {
-        "psr-0": {"SoftLayer_": "src/SoftLayer"}
+        "psr-0": {"SoftLayer_": "src/"}
     }
 }
